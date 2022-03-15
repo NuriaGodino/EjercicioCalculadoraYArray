@@ -1,0 +1,18 @@
+.envoltura{
+    text-align: center;
+}
+
+.ejArray{
+    margin-bottom: 10px;
+}
+
+input{
+    background-color: antiquewhite;
+    border-radius: 5%;
+    border-color: antiquewhite;
+    padding: 10px;
+}
+
+h1{
+    color: blue;
+}
